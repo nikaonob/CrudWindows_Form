@@ -1,0 +1,11 @@
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\bin\Debug\CrudWindows Form ADO.Net.exe.config
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\bin\Debug\CrudWindows Form ADO.Net.exe
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\bin\Debug\CrudWindows Form ADO.Net.pdb
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows Form ADO.Net.csproj.AssemblyReference.cache
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows Form ADO.Net.csproj.SuggestedBindingRedirects.cache
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows_Form_ADO.Net.Form1.resources
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows_Form_ADO.Net.Properties.Resources.resources
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows Form ADO.Net.csproj.GenerateResource.cache
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows Form ADO.Net.csproj.CoreCompileInputs.cache
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows Form ADO.Net.exe
+D:\pc1\escritorio\Programacion\PROGRAMAS\CrudWindows Form ADO.Net\CrudWindows Form ADO.Net\obj\Debug\CrudWindows Form ADO.Net.pdb
